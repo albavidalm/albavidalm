@@ -1,8 +1,11 @@
 <img align="center" src="./Hi.gif" alt="albavidal_m" />
 
 # Hi, I'm Alba
-A frontend developer from Barcelona (yasss i'm lucky to live next to the beach). I love Dracula, collect toys, vintage adventure games as Day of the Tentacle and i'll always say yes to a Red Velvet.
-I’m currently working on my portfolio and planning some personal projects. I love teamwork so collab requests are welcome 🖤
+A Front End developer from Barcelona (yasss i'm lucky to live next to the beach).
+In my professional life, before studying at Adalab, I was managing an industrial product but my two best experiences were when I created together with my sister our artisan bookbinding brand and later as a sales assistant in a clothing store in London (teamwork rules).
+I love Dracula, collecting toys, vintage adventure games as Day of the Tentacle and i'll always say yes to a Red Velvet.
+I’m currently working on my portfolio and planning some personal projects.
+I love teamwork so collab requests are welcome 🖤
 
 ### Connect with me:
 
