@@ -2,9 +2,13 @@
 
 # Hi, I'm Alba
 A Front End developer from Barcelona (yasss i'm lucky to live next to the beach).<br>
-In my professional life, before studying at Adalab, I was managing an industrial product but my two best experiences were when I created together with my sister our artisan bookbinding brand and later as a sales assistant in a clothing store in London (teamwork rules).<br>
+
+In my professional life, before studying at Adalab, I was managing an industrial product but my two best experiences were when I created together with my sister our artisan bookbinding brand and later as a sales assistant in a clothing store in London (teamwork rocks).<br>
+
 I love Dracula, collecting toys, vintage adventure games as Day of the Tentacle and i'll always say yes to a Red Velvet.<br>
+
 I’m currently working on my portfolio and planning some personal projects.<br>
+
 I love teamwork so collab requests are welcome 🖤
 
 ### Connect with me:
