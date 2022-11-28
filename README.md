@@ -7,7 +7,7 @@ In my professional life, before studying at Adalab, I was managing an industrial
 
 I love Dracula, collecting toys, vintage adventure games as Day of the Tentacle and i'll always say yes to a Red Velvet.<br>
 
-I’m currently working on my portfolio and planning some personal projects.<br>
+I’m currently learning Typescript and testing.<br>
 
 I love teamwork so collab requests are welcome 🖤
 
